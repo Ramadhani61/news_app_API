@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Baca_Berita.iml" filepath="$PROJECT_DIR$/Baca_Berita.iml" group="Baca_Berita" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Baca_Berita/app" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966586854821",
+    "firebase_url": "https://bacaberita-b8090.firebaseio.com",
+    "project_id": "bacaberita-b8090",
+    "storage_bucket": "bacaberita-b8090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966586854821:android:1962b4b92f9bb7fbbf0c4c",
+        "android_client_info": {
+          "package_name": "com.example.baca_berita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966586854821-odj4b5ihmktkn531v25e6oaa031stis8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baca_berita",
+            "certificate_hash": "5cac911bfd975585080c2f18180d0cbfa41c23cf"
+          }
+        },
+        {
+          "client_id": "966586854821-cl8brqgqc09febt249q3i2t0g5kqonqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACuTuRxaw8vRou7Z0xLU34iViSAtUTSm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966586854821-cl8brqgqc09febt249q3i2t0g5kqonqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
